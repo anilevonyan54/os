@@ -13,3 +13,4 @@ int main() {
     printf("New message queue created with ID: %d\n", msqid);
     return 0;
 }
+

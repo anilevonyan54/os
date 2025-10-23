@@ -54,3 +54,4 @@ int main(int argc, char *argv[]) {
     printf("Message received: type = %ld, text = %s\n", message.mtype, message.mtext);
     return 0;
 }
+

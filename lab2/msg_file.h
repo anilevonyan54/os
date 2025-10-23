@@ -27,3 +27,4 @@ struct responseMsg {
 #define RESP_MSG_SIZE (sizeof(struct responseMsg) - sizeof(long))
 
 #endif
+
